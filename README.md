@@ -1,7 +1,7 @@
-# 5607-hw2a-starter
+# 5607 
 
 ## Note
-This is the professor Victoria Interrante's code, not mine. I'm just posting this on github for students to download for their assignment.
+Ray_tracer for OpenGL
 
 ## Installing + Compiling
 

@@ -1,0 +1,95 @@
+﻿  main.cpp
+D:\5607\TemplateHW2b\src\trimesh.hpp(99,61): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\trimesh.hpp(126,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(126,31): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(128,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(135,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(135,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(135,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(237,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(237,31): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\5607\TemplateHW2b\src\trimesh.hpp(265,32): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\5607\TemplateHW2b\src\main.cpp(174,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\main.cpp(175,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\main.cpp(177,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\main.cpp(178,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\main.cpp(212,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\main.cpp(213,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\main.cpp(216,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(217,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(223,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\main.cpp(224,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\main.cpp(225,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(226,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(231,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(232,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(233,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(234,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(235,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(349,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(350,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(351,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(352,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(353,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\5607\TemplateHW2b\src\main.cpp(382,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\5607\TemplateHW2b\src\main.cpp(385,62): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\5607\TemplateHW2b\src\main.cpp(436,80): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(63,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\trimesh.hpp(61): message : while compiling class template member function 'void Vec<3,float>::normalize(void)'
+D:\5607\TemplateHW2b\src\trimesh.hpp(142): message : see reference to function template instantiation 'void Vec<3,float>::normalize(void)' being compiled
+D:\5607\TemplateHW2b\src\trimesh.hpp(99): message : see reference to class template instantiation 'Vec<3,float>' being compiled
+D:\5607\TemplateHW2b\src\trimesh.hpp(47,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(46): message : while compiling class template member function 'Vec<3,float> &Vec<3,float>::operator +=(const Vec<3,float> &)'
+D:\5607\TemplateHW2b\src\trimesh.hpp(138): message : see reference to function template instantiation 'Vec<3,float> &Vec<3,float>::operator +=(const Vec<3,float> &)' being compiled
+D:\5607\TemplateHW2b\src\trimesh.hpp(54,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(52): message : while compiling class template member function 'T Vec<3,T>::dot(const Vec<3,T> &) const'
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\trimesh.hpp(50): message : see reference to function template instantiation 'T Vec<3,T>::dot(const Vec<3,T> &) const' being compiled
+          with
+          [
+              T=float
+          ]
+D:\5607\TemplateHW2b\src\trimesh.hpp(69,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(134): message : see reference to function template instantiation 'const Vec<3,float> operator -<3,float>(const Vec<3,float> &,const Vec<3,float> &)' being compiled
+D:\5607\TemplateHW2b\src\trimesh.hpp(75,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5607\TemplateHW2b\src\trimesh.hpp(138): message : see reference to function template instantiation 'const Vec<3,float> operator *<3,float>(const Vec<3,float> &,const T &)' being compiled
+          with
+          [
+              T=float
+          ]
+  HW2B.vcxproj -> D:\5607\TemplateHW2b\build\Debug\HW2B.exe

@@ -1,0 +1,9 @@
+D:/5607/TemplateHW2b/build/CMakeFiles/HW2B.dir
+D:/5607/TemplateHW2b/build/CMakeFiles/INSTALL.dir
+D:/5607/TemplateHW2b/build/CMakeFiles/ALL_BUILD.dir
+D:/5607/TemplateHW2b/build/CMakeFiles/ZERO_CHECK.dir
+D:/5607/TemplateHW2b/build/ext/glfw/CMakeFiles/uninstall.dir
+D:/5607/TemplateHW2b/build/ext/glfw/CMakeFiles/INSTALL.dir
+D:/5607/TemplateHW2b/build/ext/glfw/CMakeFiles/ALL_BUILD.dir
+D:/5607/TemplateHW2b/build/ext/glfw/src/CMakeFiles/glfw.dir
+D:/5607/TemplateHW2b/build/ext/glfw/src/CMakeFiles/INSTALL.dir
